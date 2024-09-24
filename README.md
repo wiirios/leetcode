@@ -8,6 +8,8 @@ Leetcode is a platform with diverse programming problems focused on technical in
   <img src="https://img.shields.io/badge/Hard-1-gray?style=flat&logo=minecraft&labelColor=red" alt="Version Badge"/>
 </div>
 
+---
+
 | # | Java | Difficulty | Topics
 | -- | -- | -- | -- |
 | Two Sum | [P01](Java/1-Two-Sum/problem.java) | Easy | Array Hash \ Table |
