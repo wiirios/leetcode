@@ -1,14 +1,17 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        String y = String.valueOf(x);
-
-        StringBuilder output = new StringBuilder();
-
-        output.append(y);
-
-        if(y.contains(output.reverse())) {
-            return true;
+        if (x < 0) {
+            return false;
         }
-        return false;
+
+        int reverse = 0;
+        int xcopy = x;
+
+        while (x > 0) {
+            reverse = (reverse * 10) + (x % 10);
+            x /= 10;
+        }
+
+        return reverse == xcopy;        
     }
 }
