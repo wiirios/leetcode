@@ -10,9 +10,9 @@ Leetcode is a platform with diverse programming problems focused on technical in
 
 ---
 
-| # | Java | Difficulty | Topics
+| Problem | Java | Difficulty | Topics
 | -- | -- | -- | -- |
-| Two Sum | [P01](Java/1-Two-Sum/problem.java) | Easy | Array Hash \ Table |
+| Two Sum | [P01](Java/1-Two-Sum/problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Array Hash \ Table |
 | -- | -- | -- | -- |
 | -- | -- | -- | -- |
-| Median of Two Sorted Arrays | [P04](Java/4-Median-Of-Two-Sorted-Arrays) | Hard | ArrayBinary \ Search \ Divide and Conquer |
+| Median of Two Sorted Arrays | [P04](Java/4-Median-Of-Two-Sorted-Arrays) | ${\textsf{\color{Red}Hard}}$ | ArrayBinary \ Search \ Divide and Conquer |
