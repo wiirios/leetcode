@@ -49,11 +49,14 @@ Leetcode is a platform with diverse programming problems focused on technical in
   <img src="https://img.shields.io/badge/Med.-4-gray?style=flat&logo=med&labelColor=yellow" alt="Version Badge"/>
   <img src="https://img.shields.io/badge/Hard-0-gray?style=flat&logo=hard&labelColor=red" alt="Version Badge"/>
 </div>
+
+---
  
 | Problem | Sql | Difficulty | Topics | Beats |
 | -- | -- | -- | -- | -- |
-| Combine Two Tables | [P175](Sql/175-Combine-Two-Tables/problem.sql) | ${\textsf{\color{Lightgreen}Easy}}$ | Database |
-| Second-Highest-Salary | [P176](Sql/176-Second-Highest-Salary/problem.sql) | ${\textsf{\color{yellow}Med}}$| Database |
-| Rank Scores | [P178](Sql/178-Rank-Scores/problem.sql) | ${\textsf{\color{yellow}Med}}$ | Database |
-| Cosecutive Numbers | [P180](Sql/180-Cosecutive-Numbers/problem.sql) | ${\textsf{\color{yellow}Med}}$ | Database |
-| Department-Highest-Salary | [P184](Sql/184-Department-Highest-Salary/problem.sql) | ${\textsf{\color{yellow}Med}}$| Database |
+| Combine Two Tables | [P175](Sql/175-Combine-Two-Tables/problem.sql) | ${\textsf{\color{Lightgreen}Easy}}$ | Database | 96.69% |
+| Second-Highest-Salary | [P176](Sql/176-Second-Highest-Salary/problem.sql) | ${\textsf{\color{yellow}Med}}$| Database | 98.31% |
+| Rank Scores | [P178](Sql/178-Rank-Scores/problem.sql) | ${\textsf{\color{yellow}Med}}$ | Database | 84.54% |
+| Cosecutive Numbers | [P180](Sql/180-Cosecutive-Numbers/problem.sql) | ${\textsf{\color{yellow}Med}}$ | Database | 17.50% |
+| Department-Highest-Salary | [P184](Sql/184-Department-Highest-Salary/problem.sql) | ${\textsf{\color{yellow}Med}}$| Database | 89.98% |
+ 
