@@ -16,6 +16,7 @@ Java Solutions
 | Two Sum | [P01](Java/1-Two-Sum/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Array Hash \ Table | 98.63% |
 | Median of Two Sorted Arrays | [P04](Java/4-Median-Of-Two-Sorted-Arrays/Problem.java) | ${\textsf{\color{Red}Hard}}$ | ArrayBinary \ Search \ Divide and Conquer | 31.53% |
 | Palindrome Number | [P09](Java/9-Palindrome-Number/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Math | 100.00% |
+| Find The Index Of The First Occurrence In A String | [P28](Java/28. Find the Index of the First Occurrence in a String/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | String Matching \ String \ Two Pointers | 100.00% |  
 | Length Of Last Word | [P058](Java/58-Length-Of-Last-Word/Problem.java) | ${\textsf{\color{yellow}Med}}$ | String | 100.00% |
 | Print in Order | [P1114](Java/1114-Print-In-Order/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Concurrency |
 | Print FooBar Alternately | [P1115](Java/1115-Print-FooBar-Alternately/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Concurrency |
