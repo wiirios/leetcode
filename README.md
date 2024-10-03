@@ -3,7 +3,7 @@
 Leetcode is a platform with diverse programming problems focused on technical interviews
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Easy-5/826-gray?style=flat&logo=easy&labelColor=green" alt="Version Badge"/>
+  <img src="https://img.shields.io/badge/Easy-6/826-gray?style=flat&logo=easy&labelColor=green" alt="Version Badge"/>
   <img src="https://img.shields.io/badge/Med.-8/1726-gray?style=flat&logo=med&labelColor=yellow" alt="Version Badge"/>
   <img src="https://img.shields.io/badge/Hard-1/747-gray?style=flat&logo=hard&labelColor=red" alt="Version Badge"/>
 </div>
@@ -22,6 +22,7 @@ Java Solutions
 | Print FooBar Alternately | [P1115](Java/1115-Print-FooBar-Alternately/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Concurrency |
 | Print Zero Even Odd | [P1116](Java/1116-Print-Zero-Even-Odd/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Concurrency | 99.88% |
 | Building H20 | [P1117](Java/1117-Building-H2O/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Concurrency | 99.57% |
+| Merge Strings Alternately | [P1768](Java/1768-Merge-Strings-Alternately/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Two Pointers \ String | 84.50% |
 
 ---
 
