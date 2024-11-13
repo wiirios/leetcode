@@ -19,14 +19,15 @@ Java Solutions
 | Palindrome Number | [P09](Java/9-Palindrome-Number/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Math | 100.00% |
 | Integer To Roman | [P12](Java/12-Integer-To-Roman/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Hash Table \ Math \ String | 98.33% |
 | Find The Index Of The First Occurrence In A String | [P28](Java/28-Find-The-Index-Of-The-First-Occurrence-In-A-String/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | String Matching \ String \ Two Pointers | 100.00% |  
-| Length Of Last Word | [P058](Java/58-Length-Of-Last-Word/Problem.java) | ${\textsf{\color{yellow}Med}}$ | String | 100.00% |
+| Length Of Last Word | [P58](Java/58-Length-Of-Last-Word/Problem.java) | ${\textsf{\color{yellow}Med}}$ | String | 100.00% |
 | Sort Colors | [P75](Java/75-Sort-Colors/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Array \ Two Pointers \ Sorting | 100.00% |
 | Reverse Words In A String | [P151](Java/151-Reverse-Words-in-a-String/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Two Pointers \ String | 20.66% | 
 | Move Zeroes | [P283](Java/283-Move-Zeroes/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Array \ Two Pointers | 83.78%
 | Find The Duplicate Number | [P287](Java/287-Find-The-Duplicate-Number/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Bit Manipulation \ Binary Search \ Two Pointers \ Array | 6.00% |
+| Reverse String | [P344](Java/344-Reverse-String/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Array | 90.09% |
+| Is Subsequence | [P392](Java/392-Is-Subsequence/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Dynamic Programming \ String | 93.17% |
 | Maximum Average Subarray | [P643](Java/643-Maximum-Average-Subarray-I/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Sliding Window \ Array | 41.99% |
 | Print in Order | [P1114](Java/1114-Print-In-Order/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Concurrency |
-| Is Subsequence | [P392](Java/392-Is-Subsequence/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Dynamic Programming \ String | 93.17% |
 | Print FooBar Alternately | [P1115](Java/1115-Print-FooBar-Alternately/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Concurrency |
 | Print Zero Even Odd | [P1116](Java/1116-Print-Zero-Even-Odd/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Concurrency | 99.88% |
 | Building H20 | [P1117](Java/1117-Building-H2O/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Concurrency | 99.57% |
