@@ -3,7 +3,7 @@
 Leetcode is a platform with diverse programming problems focused on technical interviews
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Easy-12/826-gray?style=flat&logo=easy&labelColor=green" alt="Version Badge"/>
+  <img src="https://img.shields.io/badge/Easy-13/826-gray?style=flat&logo=easy&labelColor=green" alt="Version Badge"/>
   <img src="https://img.shields.io/badge/Med.-11/1726-gray?style=flat&logo=med&labelColor=yellow" alt="Version Badge"/>
   <img src="https://img.shields.io/badge/Hard-1/747-gray?style=flat&logo=hard&labelColor=red" alt="Version Badge"/>
 </div>
