@@ -19,6 +19,7 @@ Java Solutions
 | Palindrome Number | [P09](Java/9-Palindrome-Number/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Math | 100.00% |
 | Integer To Roman | [P12](Java/12-Integer-To-Roman/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Hash Table \ Math \ String | 98.33% |
 | Find The Index Of The First Occurrence In A String | [P28](Java/28-Find-The-Index-Of-The-First-Occurrence-In-A-String/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | String Matching \ String \ Two Pointers | 100.00% |  
+| Search Insert Position | [P35](Java/35-Search-Insert-Position/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Binary Search \ Search | 100.00% |
 | Length Of Last Word | [P58](Java/58-Length-Of-Last-Word/Problem.java) | ${\textsf{\color{yellow}Med}}$ | String | 100.00% |
 | Sort Colors | [P75](Java/75-Sort-Colors/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Array \ Two Pointers \ Sorting | 100.00% |
 | Reverse Words In A String | [P151](Java/151-Reverse-Words-in-a-String/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Two Pointers \ String | 20.66% | 
