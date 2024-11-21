@@ -1,17 +1,27 @@
 class FooBar {
     private int n;
+    boolean printed;
 
     public FooBar(int n) {
         this.n = n;
+        printed = false;
     }
 
     public void foo(Runnable printFoo) throws InterruptedException {
         
         for (int i = 0; i < n; i++) {
-
+            
         	// printFoo.run() outputs "foo". Do not change or remove this line.
-            Thread.sleep(100);
-        	printFoo.run();
+        	synchronized (this) {
+                while (printed == true) {
+                    wait();
+                }
+
+                printFoo.run();
+                printed = true;
+                notify();
+            }    
+
         }
     }
 
@@ -20,8 +30,14 @@ class FooBar {
         for (int i = 0; i < n; i++) {
             
             // printBar.run() outputs "bar". Do not change or remove this line.
-            Thread.sleep(200);
-        	printBar.run();
+        	synchronized (this) {
+                while (printed == false) { 
+                    wait();
+                }
+                 printBar.run();
+                 printed = false;
+                 notify();
+            }
         }
     }
 }
