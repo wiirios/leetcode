@@ -29,7 +29,7 @@ Java Solutions
 | Is Subsequence | [P392](Java/392-Is-Subsequence/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Dynamic Programming \ String | 93.17% |
 | Maximum Average Subarray | [P643](Java/643-Maximum-Average-Subarray-I/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Sliding Window \ Array | 41.99% |
 | Print in Order | [P1114](Java/1114-Print-In-Order/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Concurrency |
-| Print FooBar Alternately | [P1115](Java/1115-Print-FooBar-Alternately/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Concurrency |
+| Print FooBar Alternately | [P1115](Java/1115-Print-FooBar-Alternately/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Concurrency | 28.21% |
 | Print Zero Even Odd | [P1116](Java/1116-Print-Zero-Even-Odd/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Concurrency | 99.88% |
 | Building H20 | [P1117](Java/1117-Building-H2O/Problem.java) | ${\textsf{\color{yellow}Med}}$ | Concurrency | 99.57% |
 | Merge Strings Alternately | [P1768](Java/1768-Merge-Strings-Alternately/Problem.java) | ${\textsf{\color{Lightgreen}Easy}}$ | Two Pointers \ String | 84.50% |
